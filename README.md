@@ -13,6 +13,6 @@ archive anaconda: https://repo.anaconda.com/archive/
 
 archive ubuntu: https://releases.ubuntu.com/
 
-How To Solve "sub process usr bin dpkg returned an error code 1″ Error in Ubuntu: https://itsfoss.com/dpkg-returned-an-error-code-1/
+E: Sub-process /usr/bin/dpkg returned an error code (1):  https://itsfoss.com/dpkg-returned-an-error-code-1/
 
 
