@@ -9,10 +9,13 @@
      Step 2: Reinstall the Recommended Driver :sudo apt install nvidia-driver-550 
 
 
-archive anaconda: https://repo.anaconda.com/archive/
+# archive anaconda
+     1- https://repo.anaconda.com/archive/
 
-archive ubuntu: https://releases.ubuntu.com/
+# archive ubuntu
+     1- https://releases.ubuntu.com/
 
-E: Sub-process /usr/bin/dpkg returned an error code (1):  https://itsfoss.com/dpkg-returned-an-error-code-1/
+# E: Sub-process /usr/bin/dpkg returned an error code (1)
+     1- https://itsfoss.com/dpkg-returned-an-error-code-1/
 
 
