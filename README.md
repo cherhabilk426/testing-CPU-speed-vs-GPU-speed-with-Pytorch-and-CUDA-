@@ -3,11 +3,11 @@
 # NVIDIA Optimized Frameworks
      1- https://docs.nvidia.com/deeplearning/frameworks/mxnet-release-notes/rel-22-09.html
 
-cuda_11.8_installation_on_Ubuntu_22.04: https://gist.github.com/MihailCosmin/affa6b1b71b43787e9228c25fe15aeba
-(
-Step 1: Purge Existing NVIDIA Drivers:sudo apt-get purge '^nvidia-.*'    
-Step 2: Reinstall the Recommended Driver :sudo apt install nvidia-driver-550 
-)
+# cuda_11.8_installation_on_Ubuntu_22.04
+     1- https://gist.github.com/MihailCosmin/affa6b1b71b43787e9228c25fe15aeba
+     Step 1: Purge Existing NVIDIA Drivers:sudo apt-get purge '^nvidia-.*'    
+     Step 2: Reinstall the Recommended Driver :sudo apt install nvidia-driver-550 
+
 
 archive anaconda: https://repo.anaconda.com/archive/
 
