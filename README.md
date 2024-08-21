@@ -12,6 +12,9 @@
 # archive anaconda
      1- https://repo.anaconda.com/archive/
 
+# archive cuDNN
+     1- https://developer.nvidia.com/rdp/cudnn-archive  
+
 # archive ubuntu
      1- https://releases.ubuntu.com/
 
