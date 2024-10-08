@@ -5,6 +5,7 @@
 
 # cuda_11.8_installation_on_Ubuntu_22.04
      1- https://gist.github.com/MihailCosmin/affa6b1b71b43787e9228c25fe15aeba
+     2- https://hostkey.com/documentation/technical/gpu/nvidia_gpu_linux/#installing-nvidia-drivers
      Step 1: Purge Existing NVIDIA Drivers:sudo apt-get purge '^nvidia-.*'    
      Step 2: Reinstall the Recommended Driver :sudo apt install nvidia-driver-550 
 
